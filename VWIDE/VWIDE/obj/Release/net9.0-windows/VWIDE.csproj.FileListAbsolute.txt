@@ -56,7 +56,6 @@ C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Base
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\MainWindow.g.cs
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\Window1.g.cs
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\Window2.g.cs
-C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\Window3.g.cs
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\App.g.cs
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\VWIDE_Content.g.cs
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\VWIDE_MarkupCompile.cache
@@ -64,7 +63,6 @@ C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Base
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\MainWindow.baml
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\Window1.baml
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\Window2.baml
-C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\Window3.baml
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\VWIDE.g.resources
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\VWIDE.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\obj\Release\net9.0-windows\VWIDE.AssemblyInfoInputs.cache

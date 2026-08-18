@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VWIDE"
         mc:Ignorable="d"
-        Title="Window2" Height="475" Width="395">
+        Title="VWIDE - Custom Plugins" Height="475" Width="395">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -13,8 +13,7 @@
         </Grid.RowDefinitions>
 
         <Menu Grid.Row="0" Background="Gray">
-            <MenuItem Header="_Configure New Binary" Click="newBinary_Click">
-                <Label Content="Label"/>
+            <MenuItem Header="_Configure New Custom Plugin" Click="newBinary_Click">
             </MenuItem>
             <MenuItem Header="_Exit" Click="exit_Click"></MenuItem>
         </Menu>

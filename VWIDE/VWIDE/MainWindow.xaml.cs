@@ -1,26 +1,16 @@
 ﻿using ICSharpCode.AvalonEdit;
-using ICSharpCode.AvalonEdit.Indentation;
-using ICSharpCode.AvalonEdit.Rendering;
 using ICSharpCode.AvalonEdit.Highlighting;
 using ICSharpCode.AvalonEdit.Highlighting.Xshd;
 using ICSharpCode.AvalonEdit.Search;
-using Microsoft.Web.WebView2.Wpf;
 using Microsoft.Win32;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.Linq;
 using System.Reflection;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Diagnostics;
 using System.Windows.Media;
 using External_Langauage_Manager;
-using System.Diagnostics.Eventing.Reader;
-using System.Xml;
 using System.Windows.Threading;
 using AutoUpdaterDotNET;
 

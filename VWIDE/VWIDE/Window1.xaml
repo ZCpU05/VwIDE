@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VWIDE"
         mc:Ignorable="d"
-        Title="Window1" Height="440" Width="378">
+        Title="VWIDE - Install Plugins" Height="440" Width="378">
     <Grid>
 
 
