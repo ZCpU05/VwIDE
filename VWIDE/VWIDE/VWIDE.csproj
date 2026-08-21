@@ -58,4 +58,22 @@
     <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Binaries\Compatible Binaries\" />
+    <Folder Include="Binaries\Custom Binaries\" />
+    <Folder Include="Binaries\php\" />
+    <Folder Include="uninstall\" />
+    <Folder Include="Plugins\Custom Plugins\" />
+  </ItemGroup>
+
+	<Target Name="DeleteAutoUpdaterLanguages" AfterTargets="AfterBuild">
+		<ItemGroup>
+			<AutoUpdaterLanguages Include="$(TargetDir)*\AutoUpdater.NET.resources.dll" />
+		</ItemGroup>
+
+		<Delete Files="@(AutoUpdaterLanguages)" />
+
+		<RemoveDir Directories="@(AutoUpdaterLanguages->'%(RootDir)%(Directory)')" />
+	</Target>
+	
 </Project>
