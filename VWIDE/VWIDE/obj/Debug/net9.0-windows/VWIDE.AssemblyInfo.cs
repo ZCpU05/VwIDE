@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VWIDE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f34326c2f3d057973b5ee73362b9e1baf89154d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de136b2c16b6c742fc76351fe3eedc3f0791a5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("VWIDE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VWIDE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
