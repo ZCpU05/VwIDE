@@ -51,6 +51,8 @@ namespace VWIDE
 
         Dictionary<string, bool> supportedExtensions = new Dictionary<string, bool>(); //A dictionary containing all the supported file extensions and if they support the web view
 
+        double textEditorWidth;
+
         public MainWindow() //function that loads things on start up
         {
             InitializeComponent();
@@ -170,6 +172,8 @@ namespace VWIDE
             }
 
             SearchPanel.Install(CurrentTextEditor); //installs find and replace pannel
+
+            textEditorWidth = CurrentTextEditor.Width;
         }
 
         private async Task<string> runPHP(string input)
@@ -375,7 +379,7 @@ namespace VWIDE
             }
             else
             {
-                openFileDialog.Filter = "php files (*.php)|*.h|html files (*.html)|*.html|css files (*.css)|*.css|js files (*.js)|*.js|All files (*.*)|*.*";
+                openFileDialog.Filter = "php files (*.php)|*.php|html files (*.html)|*.html|css files (*.css)|*.css|js files (*.js)|*.js|All files (*.*)|*.*";
             }
             openFileDialog.FilterIndex = 1;
             openFileDialog.RestoreDirectory = true;
@@ -412,7 +416,7 @@ namespace VWIDE
             }
             else
             {
-                saveFileDialog.Filter = "php files (*.php)|*.h|html files (*.html)|*.html|css files (*.css)|*.css|js files (*.js)|*.js|All files (*.*)|*.*";
+                saveFileDialog.Filter = "php files (*.php)|*.php|html files (*.html)|*.html|css files (*.css)|*.css|js files (*.js)|*.js|All files (*.*)|*.*";
             }
             saveFileDialog.RestoreDirectory = true;
             saveFileDialog.FilterIndex = 1;
@@ -473,14 +477,23 @@ namespace VWIDE
             string activeFilePath = openFiles[currID].path;
             string extension = Path.GetExtension(activeFilePath);
 
+            CurrentTextEditor.ActualWidth.Equals(textEditorWidth * 2);
+
             foreach (var (ext, isSupported) in supportedExtensions)
             {
                 if (extension == ext && isSupported)
                 {
                     executeFlag = true;
                     visualWebTester.Visibility = Visibility.Visible;
+                    WebviewColumn.Width = new GridLength(1, GridUnitType.Star);
                     break;
                 }
+            }
+
+            if (!executeFlag)
+            {
+                visualWebTester.Visibility = Visibility.Collapsed;
+                WebviewColumn.Width = new GridLength(0);
             }
 
             if (visualWebTester != null && visualWebTester.CoreWebView2 != null && executeFlag)
