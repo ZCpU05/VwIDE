@@ -45,7 +45,7 @@ Finally, there is the **Binaries** tab, which has two options:
 1. Install Plugins
 2. Configure Custom Plugins
 
-> *For instructions on configuring custom plugins, see `Custom Plugin Creation instructions.md`.*
+> *For instructions on configuring custom plugins, see [`Custom Plugin Creation Instructions.md`](https://github.com/ZCpU05/VwIDE/blob/main/Custom%20Plugin%20Creation%20instructions.md).*
 
 Clicking on **Install Plugins** takes you to the following window:
 
