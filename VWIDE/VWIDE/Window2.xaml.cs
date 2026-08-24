@@ -72,11 +72,11 @@ namespace VWIDE
                 fileExtensionInput.Tag = "Ext_" + customBinaryID;
 
                 Label extensionNotif = new Label();
-                extensionNotif.Width = 73;
+                extensionNotif.Width = 85;
                 extensionNotif.HorizontalAlignment = HorizontalAlignment.Left;
                 extensionNotif.VerticalAlignment = VerticalAlignment.Center;
                 extensionNotif.Margin = new Thickness(149, 0, 0, 35);
-                extensionNotif.Content = "File extension";
+                extensionNotif.Content = "File Extension";
                 extensionNotif.Tag = customBinaryID;
 
                 TextBox nameInput = new TextBox();
