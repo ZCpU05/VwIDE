@@ -1,2 +1,3 @@
-2026/08/21-21:31:41.795 6160 Creating DB C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Release\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default\shared_proto_db\metadata since it was missing.
-2026/08/21-21:31:41.813 6160 Reusing MANIFEST C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Release\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/24-13:30:14.268 a244 Reusing MANIFEST C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Release\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/24-13:30:14.268 a244 Recovering log #3
+2026/08/24-13:30:14.269 a244 Reusing old log C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Release\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/000003.log 

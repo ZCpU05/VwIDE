@@ -13,11 +13,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("VWIDE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e4a92d691ffee6a5812da194993f4bbce7a943b")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.9.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d339fadba4dd1712f38ccf3068a380c01a5b8498")]
 [assembly: System.Reflection.AssemblyProductAttribute("VWIDE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VWIDE")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.9.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
