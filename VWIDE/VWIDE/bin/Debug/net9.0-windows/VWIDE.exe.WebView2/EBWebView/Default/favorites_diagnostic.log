@@ -376,3 +376,33 @@
 2026-08-22 20:59:21.793: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-08-22 20:59:21.793: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-08-22 21:02:38.284: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-24 10:09:27.788: [INFO] CurrentProfilePath: C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default
+2026-08-24 10:09:27.788: [INFO] Profiles total count: 1
+2026-08-24 10:09:27.789: [INFO] Profile: name=Profile 1 path=C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default lastActive=2026-07-27T13:49:19.593Z
+2026-08-24 10:09:27.789: [INFO] LastUsedProfileDir: C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default
+2026-08-24 10:09:27.789: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default lastActive=2026-07-27T13:49:19.593Z
+2026-08-24 10:09:27.789: [INFO] OnDoneLoading sync enabled: 0
+2026-08-24 10:09:27.789: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-24 10:09:27.789: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-24 10:09:27.789: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-24 10:26:48.989: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-24 10:30:59.528: [INFO] CurrentProfilePath: C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default
+2026-08-24 10:30:59.528: [INFO] Profiles total count: 1
+2026-08-24 10:30:59.528: [INFO] Profile: name=Profile 1 path=C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default lastActive=2026-07-27T13:49:19.593Z
+2026-08-24 10:30:59.528: [INFO] LastUsedProfileDir: C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default
+2026-08-24 10:30:59.529: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default lastActive=2026-07-27T13:49:19.593Z
+2026-08-24 10:30:59.529: [INFO] OnDoneLoading sync enabled: 0
+2026-08-24 10:30:59.529: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-24 10:30:59.529: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-24 10:30:59.529: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-24 10:32:32.011: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-24 10:37:51.742: [INFO] CurrentProfilePath: C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default
+2026-08-24 10:37:51.742: [INFO] Profiles total count: 1
+2026-08-24 10:37:51.743: [INFO] Profile: name=Profile 1 path=C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default lastActive=2026-07-27T13:49:19.593Z
+2026-08-24 10:37:51.743: [INFO] LastUsedProfileDir: C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default
+2026-08-24 10:37:51.743: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\ZCpU0\OneDrive\Documents\GitHub\Visual Based Web Markup IDE\Visual Based Web Markup IDE\VWIDE\VWIDE\bin\Debug\net9.0-windows\VWIDE.exe.WebView2\EBWebView\Default lastActive=2026-07-27T13:49:19.593Z
+2026-08-24 10:37:51.743: [INFO] OnDoneLoading sync enabled: 0
+2026-08-24 10:37:51.743: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-24 10:37:51.743: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-24 10:37:51.743: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-24 10:52:56.408: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
