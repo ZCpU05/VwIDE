@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Node Plugin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e4a92d691ffee6a5812da194993f4bbce7a943b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d339fadba4dd1712f38ccf3068a380c01a5b8498")]
 [assembly: System.Reflection.AssemblyProductAttribute("Node Plugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Node Plugin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
